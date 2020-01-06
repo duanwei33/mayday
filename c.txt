@@ -2,3 +2,4 @@ Hello, I add file C
 CCCCCCCCCCCCCCCCCCCCCCC
 DDDDDDDDDDDDDDDDDDDDDDD
 rebase from origin
+rebase
